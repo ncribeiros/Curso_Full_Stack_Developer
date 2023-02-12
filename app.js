@@ -38,7 +38,7 @@ console.log(minhaidade);
 console.log(ehlegal);
 */
 
-let resultado = 10 + 10;
+/*let resultado = 10 + 10;
 console.log("Soma: ", resultado)
 
 resultado = 10 - 10;
@@ -67,3 +67,10 @@ if (valor1 * valor2 === 100) {
 } else {
     console.log ("Valor não é igual a 100");
 }
+*/
+
+const buttonElement = document.getElementById('btn');
+
+buttonElement.addEventListener('click', function (event) {
+    document.getElementById("nome").innerHTML = "Meu Nome é Nathanael";
+})
