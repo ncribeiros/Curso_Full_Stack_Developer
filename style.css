@@ -5,8 +5,8 @@
   :root {
     font-family: sans-serif;
     --color-link: #0085ff;
-    --color-gradient-top: #ff4f4f;
-    --color-gradient-bottom: #ff7d1b;
+    --color-gradient-top: #424040;
+    --color-gradient-bottom: #0085ff;
   }
   
   body {
